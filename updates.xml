@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="latin-1"?>
+<updates>
+    <version id="0.4">
+        <update name="Satoru UPDATED v0.4" url="https://github.com/BlueShell8/Satoru-Updated/blob/main/CHANGELOG.md">
+            <release id="windows" url="" />
+            <release id="unknown" url="" />
+        </update>
+    </version>
+</updates>
